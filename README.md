@@ -1,4 +1,4 @@
-# vaadinSpringPlayground
+# Vaadin & Spring Boot
 Playground for the Vaadin UI &amp; Spring Boot framework. Vaadin for Spring Boot is still in beta so there might be bugs. Nevertheless it is a very neat way to fire a web project with cool UI.
 
 This project is an extended version of this [tutorial](https://vaadin.com/wiki/-/wiki/Spring+Vaadin/I+-+Getting+Started+with+Vaadin+Spring+and+Spring+Boot).
