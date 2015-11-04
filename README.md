@@ -3,6 +3,10 @@ Playground for the Vaadin UI &amp; Spring Boot framework. Vaadin for Spring Boot
 
 This project is an extended version of this [tutorial](https://vaadin.com/wiki/-/wiki/Spring+Vaadin/I+-+Getting+Started+with+Vaadin+Spring+and+Spring+Boot).
 
+## Preview
+
+![Imgur](http://i.imgur.com/pdUJdNO.gifv)
+
 ## Run from cmd line
 
 In the root directory of the project. Run the following commands:
