@@ -5,7 +5,7 @@ This project is an extended version of this [tutorial](https://vaadin.com/wiki/-
 
 ## Preview
 
-![Imgur](http://i.imgur.com/pdUJdNO.gifv)
+![gif](http://i.imgur.com/pdUJdNO.gif)
 
 ## Run from cmd line
 
